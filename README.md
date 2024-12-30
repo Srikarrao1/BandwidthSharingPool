@@ -1,6 +1,6 @@
-# Masterandslave
+MQTT (Message Queuing Telemetry Transport) 
 
-
+Implemention of MQTT for DEPIN infra as master and slave node
 
 ## Getting started
 
